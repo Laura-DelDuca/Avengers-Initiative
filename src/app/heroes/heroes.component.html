@@ -1,0 +1,17 @@
+<div id="wholepage">
+  <app-navbar></app-navbar>
+  <h1 class="title">
+    {{ title }}
+  </h1>
+
+  <div>
+    <ul>
+      <li class="myHeroes" (click)="onSelect(hero)" *ngFor="let hero of heroes">
+        <img class="image" src="{{ hero.image }}" width="200px" />
+        <p id="heroName">{{ hero.alias }}</p>
+      </li>
+    </ul>
+  </div>
+</div>
+
+

@@ -1,0 +1,647 @@
+[
+    {
+      "id": 1, 
+      "name": "Steve Rogers", 
+      "alias": "Captain America",
+      "origin": "Brooklyn, USA, Earth", 
+      "powers": [
+        "Inhuman Strength",
+        "Agility",
+        "Reflexes",
+        "Accelerated Healing",
+        "Hand-to-hand Combatant"
+      ],
+      "qualities": [
+        "Loyalty",
+        "Sense of Honor",
+        "Self-Sacrifice", 
+        "Sincerity",
+        "Integrity",
+        "Leadership"
+      ],
+      "defaults": [
+        "Stubbornness"
+      ],
+      "hotnessLevel": 8,
+      "cutenessLevel": 6,
+      "contacts": [
+        "Natasha Romanoff", 
+        "Jame Barnes",
+        "Peggy Carter",
+        "Samuel Wilson"
+      ],
+      "trivia": "I can do this all day !",
+      "appearsIn": "The First Avenger",
+      "image": "../assets/data/Steve.jpg"
+    },
+
+    {
+      "id": 2, 
+      "name": "Tony Stark", 
+      "alias": "Iron Man",
+      "origin": "Miami, USA, Earth", 
+      "powers": [
+        "Genius-level Intellect",
+        "Superhuman Strength",
+        "Supersonic Flight",
+        "Missile Projection"
+      ],
+      "qualities": [
+        "Perseverance",
+        "Perfectionism", 
+        "Ambitious",
+        "Altruism"
+      ],
+      "defaults": [
+        "Arrogance",
+        "Narcissim",
+        "Pretentiousness",
+        "Stubbornness"
+      ],
+      "hotnessLevel": 7,
+      "cutenessLevel": 5,
+      "contacts": [
+        "James Rhodes", 
+        "Natasha Romanoff",
+        "Peter Parker"
+      ],
+      "trivia": " I'm a genius billionaire playboy philanthropist",
+      "appearsIn": "Iron Man",
+      "image": "../assets/data/Tony.jpg"
+    },
+
+    {
+      "id": 3, 
+      "name": "Natasha Romanoff", 
+      "alias": "Black Widow",
+      "origin": "Russia, Earth", 
+      "powers": [
+        "Hand-to-hand Combatant",
+        "Agility", 
+        "Slowed Aging",
+        "Weapons Master"
+      ],
+      "qualities": [
+        "Resourcefulness",
+        "Sense of Humor",
+        "Wittiness"
+      ],
+      "defaults": [
+        "Secretiveness"
+      ],
+      "hotnessLevel": 9,
+      "cutenessLevel": 7,
+      "contacts": [
+        "Clint Barton", 
+        "Steven Rogers",
+        "Samuel Wilson"
+      ],
+      "trivia": "I'm multitasking",
+      "appearsIn": "Avengers",
+      "image": "../assets/data/Natasha.jpg"
+    },
+
+    {
+      "id": 4, 
+      "name": "Clint Barton", 
+      "alias": "Hawkeye",
+      "origin": "USA, Earth", 
+      "powers": [
+      "Master Archer",
+      "Acrobat",
+      "Hand-to-hand Combatant"
+      ],
+      "qualities": [
+        "Loyalty",
+        "Courage",
+        "Sense of Humor",
+        "Sense of Duty"
+      ],
+      "defaults": [
+        "Boasting"
+      ],
+      "hotnessLevel": 6,
+      "cutenessLevel": 5,
+      "contacts": [
+        "Natasha Romanoff"
+      ],
+      "trivia": "I just can't seem to miss",
+      "appearsIn": "Avengers",
+      "image": "../assets/data/Clint.jpg"
+    },
+
+    {
+      "id": 5, 
+      "name": "Thor Odinson", 
+      "alias": "Thor",
+      "origin": "Asgard", 
+      "powers": [
+        "Supernatural Strength",
+        "Dimensional Trasportation",
+        "Electric Manipulation",
+        "Flight"
+      ],
+      "qualities": [
+        "Sense of Honor",
+        "Loyalty",
+        "Sympathy",
+        "Sense of Humor"
+      ],
+      "defaults": [
+        "Boasting",
+        "Stubbornness"
+      ],
+      "hotnessLevel": 8,
+      "cutenessLevel": 3,
+      "contacts": [
+        "Loki Laufeyson",
+        "Bruce Banner"
+      ],
+      "trivia": " You are no match for the mighty Thor !",
+      "appearsIn": "Thor",
+      "image": "../assets/data/Thor.jpg"
+    },
+
+    {
+      "id": 6, 
+      "name": "James - Bucky - Barnes", 
+      "alias": "The Winter Soldier",
+      "origin": "USA, Earth", 
+      "powers": [
+        "Weapons Master",
+        "Inhuman Strength",
+        "Hand-to-hand Combatant",
+        "Agility",
+        "Relfexes"
+      ],
+      "qualities": [
+        "Loyalty",
+        "Self-Sacrifice",
+        "Courage",
+        "Sense of Honor"
+      ],
+      "defaults": [
+        "Tendency to Become a Cold Manipulated Soldier"
+      ],
+      "hotnessLevel": 10,
+      "cutenessLevel": 10,
+      "contacts": [
+        "Steven Rogers",
+        "T'Challa",
+        "Natasha Romanoff"
+      ],
+      "trivia": "I'm with you till the end of the line",
+      "appearsIn": "The First Avenger",
+      "image": "../assets/data/Bucky.jpg"
+    },
+
+    {
+      "id": 7, 
+      "name": "T'Challa", 
+      "alias": "Black Panther",
+      "origin": "Wakanda, Earth", 
+      "powers": "",
+      "qualities": "",
+      "defaults": "",
+      "hotnessLevel": 4,
+      "cutenessLevel": 4,
+      "contacts": [
+        "Natasha Romanoff",
+        "James Barnes"
+      ],
+      "trivia": " Guns, so primitive",
+      "appearsIn": "Black Panther",
+      "image": "../assets/data/Tchalla.jpg"
+    },
+
+    {
+      "id": 8, 
+      "name": "Samuel Wilson", 
+      "alias": "Falcon",
+      "origin": "USA, Earth", 
+      "powers": "",
+      "qualities": "",
+      "defaults": "",
+      "hotnessLevel": 4,
+      "cutenessLevel": 6,
+      "contacts": [
+        "Steven Rogers",
+        "Natasha Romanoff",
+        "James Barnes"
+      ],
+      "trivia": "Everyone’s got a gimmick now !",
+      "appearsIn": "Black Panther",
+      "image": "../assets/data/Sam.jpg"
+    },
+
+    {
+      "id": 9, 
+      "name": "Peter Parker", 
+      "alias": "Spider-Man",
+      "origin": "Queens, USA, Earth", 
+      "powers": "",
+      "qualities": "",
+      "defaults": "",
+      "hotnessLevel": 2,
+      "cutenessLevel": 5,
+      "contacts": [
+        "Tony Stark"
+      ],
+      "trivia": "",
+      "appearsIn": "Spider-Man: Homecoming",
+      "image": "../assets/data/Peter.jpg"
+    },
+
+    {
+      "id": 10, 
+      "name": "James Rhodes", 
+      "alias": "War Machine",
+      "origin": "USA, Earth", 
+      "powers": "",
+      "qualities": "",
+      "defaults": "",
+      "hotnessLevel": 2,
+      "cutenessLevel": 3,
+      "contacts": [
+        "Tony Stark"
+      ],
+      "trivia": "Give me a suit !",
+      "appearsIn": "Iron Man",
+      "image": "../assets/data/Rhodey.jpg"
+    },
+
+    {
+      "id": 11, 
+      "name": "Wanda Maximoff", 
+      "alias": "Scarlet Witch",
+      "origin": "Sokovia, Earth", 
+      "powers": "",
+      "qualities": "",
+      "defaults": "",
+      "hotnessLevel": 8,
+      "cutenessLevel": 5,
+      "contacts": [
+        "Clint Barton",
+        "Steven Rogers",
+        "Vision"
+      ],
+      "trivia": "I can't control their fear, only my own",
+      "appearsIn": "Avengers: Age of Ultron",
+      "image": "../assets/data/Wanda.jpg"
+    },
+
+    {
+      "id": 12, 
+      "name": "Vision", 
+      "alias": "Vision",
+      "origin": "USA, Earth", 
+      "powers": "",
+      "qualities": "",
+      "defaults": "",
+      "hotnessLevel": 2,
+      "cutenessLevel": 2,
+      "contacts": [
+        "Tony Stark",
+        "Wanda Maximoff"
+      ],
+      "trivia": "Something is not beautiful because it lasts",
+      "appearsIn": "Avengers: Age of Ultron",
+      "image": "../assets/data/Vision.jpg"
+    },
+
+    {
+      "id": 13, 
+      "name": "Loki Laufeyson", 
+      "alias": "Loki",
+      "origin": "Jotunheim", 
+      "powers": [
+        "Magic",
+        ""
+      ],
+      "qualities": [
+        "Strategy",
+        "Sense of Humor",
+        ""
+      ],
+      "defaults": [
+        "Treachery",
+        "Unreliability",
+        "Malice",
+        "Hunger for Power",
+        "Narcissim"
+      ],
+      "hotnessLevel": 7,
+      "cutenessLevel": 4,
+      "contacts": [
+        "Thor Odinson", 
+        "Clint Barton",
+        "Bruce Banner"
+      ],
+      "trivia": "There are no men like me !",
+      "appearsIn": "Thor",
+      "image": "../assets/data/Loki.jpg"
+    },
+
+    {
+      "id": 14, 
+      "name": "Bruce Banner", 
+      "alias": "Hulk",
+      "origin": "Ohio, USA, Earth", 
+      "powers": [
+        "Invulnerability",
+        "Superhuman Strength",
+        "Regenerative healing factor"
+      ],
+      "qualities": [
+        "Empathy",
+        "Friendship",
+        "High-intellect"
+      ],
+      "defaults": [
+        "Tendancy to become green and out of control",
+        "Fear to become green and out of control"
+      ],
+      "hotnessLevel": 7,
+      "cutenessLevel": 4,
+      "contacts": [
+        "Natasha Romanoff", 
+        "Thor Odinson",
+        "Tony Stark"
+      ],
+      "trivia": "That's my secret captai, I'm always angry...",
+      "appearsIn": "Hulk",
+      "image": "../assets/data/Bruce.jpg"
+    },
+
+ 
+    {
+      "id": 15, 
+      "name": "Wong", 
+      "alias": "Wong",
+      "origin": "", 
+      "powers": [
+
+      ],
+      "qualities": [
+
+      ],
+      "defaults": [
+
+      ],
+      "hotnessLevel": 7,
+      "cutenessLevel": 4,
+      "contacts": [
+
+      ],
+      "trivia": "",
+      "appearsIn": "Hulk",
+      "image": "../assets/data/Wong.jpg"
+    },
+
+    {
+      "id": 16, 
+      "name": "Stephen Strange", 
+      "alias": "Dr. Strange",
+      "origin": "", 
+      "powers": [
+
+      ],
+      "qualities": [
+
+      ],
+      "defaults": [
+
+      ],
+      "hotnessLevel": 7,
+      "cutenessLevel": 4,
+      "contacts": [
+
+      ],
+      "trivia": "",
+      "appearsIn": "Hulk",
+      "image": "../assets/data/Strange.jpg"
+    },
+
+    {
+      "id": 17, 
+      "name": "Carole Denvers", 
+      "alias": "Captain Marvel",
+      "origin": "", 
+      "powers": [
+
+      ],
+      "qualities": [
+
+      ],
+      "defaults": [
+
+      ],
+      "hotnessLevel": 7,
+      "cutenessLevel": 4,
+      "contacts": [
+
+      ],
+      "trivia": "",
+      "appearsIn": "Hulk",
+      "image": "../assets/data/Carole.jpg"
+    },
+
+    {
+      "id": 18, 
+      "name": "Harold - Happy - Hogan", 
+      "alias": "Happy Hogan",
+      "origin": "", 
+      "powers": [
+
+      ],
+      "qualities": [
+
+      ],
+      "defaults": [
+
+      ],
+      "hotnessLevel": 7,
+      "cutenessLevel": 4,
+      "contacts": [
+
+      ],
+      "trivia": "",
+      "appearsIn": "Hulk",
+      "image": "../assets/data/Happy.jpg"
+    },
+
+    {
+      "id": 19, 
+      "name": "Hope Pym", 
+      "alias": "The Wasp",
+      "origin": "", 
+      "powers": [
+
+      ],
+      "qualities": [
+
+      ],
+      "defaults": [
+
+      ],
+      "hotnessLevel": 7,
+      "cutenessLevel": 4,
+      "contacts": [
+
+      ],
+      "trivia": "",
+      "appearsIn": "Hulk",
+      "image": "../assets/data/Hope.jpg"
+    },
+
+    {
+      "id": 20, 
+      "name": "Nicholas Joseph Fury", 
+      "alias": "Nick Fury",
+      "origin": "", 
+      "powers": [
+
+      ],
+      "qualities": [
+
+      ],
+      "defaults": [
+
+      ],
+      "hotnessLevel": 7,
+      "cutenessLevel": 4,
+      "contacts": [
+
+      ],
+      "trivia": "",
+      "appearsIn": "Hulk",
+      "image": "../assets/data/Nick.jpg"
+    },
+    
+    {
+      "id": 21, 
+      "name": "Okoye", 
+      "alias": "Okoye",
+      "origin": "", 
+      "powers": [
+
+      ],
+      "qualities": [
+
+      ],
+      "defaults": [
+
+      ],
+      "hotnessLevel": 7,
+      "cutenessLevel": 4,
+      "contacts": [
+
+      ],
+      "trivia": "",
+      "appearsIn": "Hulk",
+      "image": "../assets/data/Okoye.jpg"
+    },
+
+    {
+      "id": 22, 
+      "name": "Virginia - Pepper - Potts", 
+      "alias": "Pepper Potts",
+      "origin": "", 
+      "powers": [
+
+      ],
+      "qualities": [
+
+      ],
+      "defaults": [
+
+      ],
+      "hotnessLevel": 7,
+      "cutenessLevel": 4,
+      "contacts": [
+
+      ],
+      "trivia": "",
+      "appearsIn": "Hulk",
+      "image": "../assets/data/Pepper.jpg"
+    },
+
+  
+    {
+      "id": 23, 
+      "name": "Scott Lang", 
+      "alias": "Ant-Man",
+      "origin": "", 
+      "powers": [
+
+      ],
+      "qualities": [
+
+      ],
+      "defaults": [
+
+      ],
+      "hotnessLevel": 7,
+      "cutenessLevel": 4,
+      "contacts": [
+
+      ],
+      "trivia": "",
+      "appearsIn": "Hulk",
+      "image": "../assets/data/Scott.jpg"
+    },
+
+
+    {
+      "id": 24, 
+      "name": "Shuri", 
+      "alias": "Shuri",
+      "origin": "", 
+      "powers": [
+
+      ],
+      "qualities": [
+
+      ],
+      "defaults": [
+
+      ],
+      "hotnessLevel": 7,
+      "cutenessLevel": 4,
+      "contacts": [
+
+      ],
+      "trivia": "",
+      "appearsIn": "Hulk",
+      "image": "../assets/data/Shuri.jpg"
+    },
+
+
+    {
+      "id": 25, 
+      "name": "Valkyrie", 
+      "alias": "Valkyrie",
+      "origin": "", 
+      "powers": [
+
+      ],
+      "qualities": [
+
+      ],
+      "defaults": [
+
+      ],
+      "hotnessLevel": 7,
+      "cutenessLevel": 4,
+      "contacts": [
+
+      ],
+      "trivia": "",
+      "appearsIn": "Hulk",
+      "image": "../assets/data/Valkyrie.jpg"
+    }
+
+
+    
+
+]

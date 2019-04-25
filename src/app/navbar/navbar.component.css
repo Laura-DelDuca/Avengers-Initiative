@@ -1,0 +1,44 @@
+.containerNavbar {
+  background-color: rgba(223, 219, 219, 0.20);
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 5px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+  }
+  
+  li {
+    float: left;
+    padding: 3%;
+    font-size: 24px;
+  }
+  
+  li a {
+    display: block;
+    color:#968E8E;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  li:hover {
+    background-color: rgb(17, 15, 15);
+  }
+
+  .border-right {
+    border-right: 1px solid black;
+  }
+
+  #messages {
+    border-left: 1px solid black;
+  }
+
+
+
+
+

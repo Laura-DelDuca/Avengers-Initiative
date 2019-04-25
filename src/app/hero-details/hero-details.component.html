@@ -1,0 +1,42 @@
+<div id="wholepage">
+  <div id="navbar">
+    <app-navbar></app-navbar>
+  </div>
+
+  <div id="alias-quote">
+    <h1 id="alias">{{ selectedHero.alias }}</h1>
+    <h2 id="quotes">{{ selectedHero.trivia }}</h2>
+  </div>
+
+  <div id="photo">
+    <img class="image" src="{{ selectedHero.image }}" />
+  </div>
+
+  <div id="about">
+
+    <p>
+      <span><strong>Real name:</strong> {{ selectedHero.name }}</span>
+    </p>
+    <p>
+      <span><strong>Coming from:</strong> {{ selectedHero.origin }}</span>
+    </p>
+    <p>
+      <span><strong>Powers:</strong> {{ selectedHero.powers }}</span>
+    </p>
+    <p>
+      <span><strong>Qualities:</strong> {{ selectedHero.qualities }}</span>
+    </p>
+    <p>
+      <span><strong>Defaults:</strong> {{ selectedHero.defaults }}</span>
+    </p>
+    <p>
+      <span><strong>Entourage:</strong> {{ selectedHero.contacts }}</span>
+    </p>
+    <p>
+      <span><strong>Hotness Level:</strong> {{ selectedHero.hotnessLevel }} /10</span>
+    </p>
+    <p>
+      <span><strong>Cuteness Level:</strong> {{ selectedHero.cutenessLevel }} /10</span>
+    </p>
+  </div>
+</div>

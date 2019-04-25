@@ -1,0 +1,37 @@
+
+#wholepage {
+    background-image: url("../../images/shield.jpg");
+    background-size: cover;
+
+}
+
+.title {
+  font-size: 50px;
+  letter-spacing: 5px;
+  color: #968E8E;
+  font-weight: lighter;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    
+
+  }
+
+  li {
+    display: inline-block;
+    width: 15%;
+    padding: 1%;
+    cursor: pointer;
+  }
+
+.image {
+  box-shadow: 10px 10px 5px rgb(32, 31, 31);
+}
+
+  #heroName {
+    color:#968E8E;
+  }

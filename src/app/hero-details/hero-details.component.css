@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat');
+
+#wholepage {
+   display: grid;
+   grid-template-columns: 30% 70%;
+   grid-template-rows: 20% 15% 60%;
+   color: rgb(167, 161, 161);
+   font-weight: thinner;
+   width: 98vw;
+   height: 98vh;
+}
+
+#navbar {
+   grid-column-start: 1;
+   grid-column-end: 3;
+   grid-row-start: 1;
+   grid-row-end: 2;
+
+}
+
+#alias-quote {
+   grid-column-start: 1;
+   grid-column-end: 3;
+   grid-row-start: 2;
+   grid-row-end: 3;
+}
+
+#alias {
+   text-align: left;
+   margin-left: 10%;
+   text-decoration: underline;
+}
+
+#quotes {
+   font-family: 'Caveat', cursive;
+   margin-left: 60%;
+   font-size: 50px;
+}
+
+#photo {
+   grid-column-start: 1;
+   grid-column-end: 2;
+   grid-row-start: 3;
+   grid-row-end: 4;
+   justify-self: center;
+   align-self: center;
+}
+
+.image {
+   width: 60%;
+   box-shadow: 10px 10px 5px rgb(32, 31, 31);
+}
+
+#about {
+   grid-column-start: 2;
+   grid-column-end: 3;
+   grid-row-start: 3;
+   grid-row-end: 4;
+   justify-self: center;
+   align-self: center;
+   text-align: left;
+}
+
+
+
+
+
+
+
+

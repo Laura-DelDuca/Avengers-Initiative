@@ -1,0 +1,249 @@
+[
+    {
+      "id": 1, 
+      "name": "Peter Quill", 
+      "alias": "Star-Lord",
+      "origin": "", 
+      "powers": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "qualities": [
+        "",
+        "",
+        "", 
+        "",
+        "",
+        ""
+      ],
+      "defaults": [
+        ""
+      ],
+      "hotnessLevel": 4,
+      "cutenessLevel": 4,
+      "contacts": [
+        "", 
+        "",
+        "",
+        ""
+      ],
+      "trivia": "",
+      "appearsIn": "",
+      "image": "../assets/data/PeterQ.jpg"
+    },
+
+    {
+        "id": 2, 
+        "name": "Rocket Raccoon", 
+        "alias": "Rocket",
+        "origin": "", 
+        "powers": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "qualities": [
+          "",
+          "",
+          "", 
+          "",
+          "",
+          ""
+        ],
+        "defaults": [
+          ""
+        ],
+        "hotnessLevel": 5,
+        "cutenessLevel": 10,
+        "contacts": [
+          "", 
+          "",
+          "",
+          ""
+        ],
+        "trivia": "",
+        "appearsIn": "",
+        "image": "../assets/data/Rocket.jpg"
+      },
+
+      {
+        "id": 3, 
+        "name": "Gamora", 
+        "alias": "Gamora",
+        "origin": "", 
+        "powers": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "qualities": [
+          "",
+          "",
+          "", 
+          "",
+          "",
+          ""
+        ],
+        "defaults": [
+          ""
+        ],
+        "hotnessLevel": 6,
+        "cutenessLevel": 3,
+        "contacts": [
+          "", 
+          "",
+          "",
+          ""
+        ],
+        "trivia": "",
+        "appearsIn": "",
+        "image": "../assets/data/Gamora.jpg"
+      },
+      {
+        "id": 4, 
+        "name": "Groot", 
+        "alias": "Groot",
+        "origin": "", 
+        "powers": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "qualities": [
+          "",
+          "",
+          "", 
+          "",
+          "",
+          ""
+        ],
+        "defaults": [
+          ""
+        ],
+        "hotnessLevel": 3,
+        "cutenessLevel": 10,
+        "contacts": [
+          "", 
+          "",
+          "",
+          ""
+        ],
+        "trivia": "",
+        "appearsIn": "",
+        "image": "../assets/data/Groot.jpg"
+      },
+
+      {
+        "id": 5, 
+        "name": "Drax the Destoyer", 
+        "alias": "Drax",
+        "origin": "", 
+        "powers": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "qualities": [
+          "",
+          "",
+          "", 
+          "",
+          "",
+          ""
+        ],
+        "defaults": [
+          ""
+        ],
+        "hotnessLevel": 0,
+        "cutenessLevel": 5,
+        "contacts": [
+          "", 
+          "",
+          "",
+          ""
+        ],
+        "trivia": "",
+        "appearsIn": "",
+        "image": "../assets/data/Drax.jpg"
+      },
+
+      {
+        "id": 6, 
+        "name": "Mantis", 
+        "alias": "Mantis",
+        "origin": "", 
+        "powers": [
+          "Empathy",
+          "Ability to influence emotions"
+        ],
+        "qualities": [
+          "",
+          "",
+          "", 
+          "",
+          "",
+          ""
+        ],
+        "defaults": [
+          ""
+        ],
+        "hotnessLevel": 7,
+        "cutenessLevel": 8,
+        "contacts": [
+          "", 
+          "",
+          "",
+          ""
+        ],
+        "trivia": "",
+        "appearsIn": "",
+        "image": "../assets/data/Mantis.jpg"
+      },
+
+      {
+        "id": 7, 
+        "name": "Nebula", 
+        "alias": "Nebula",
+        "origin": "", 
+        "powers": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "qualities": [
+          "",
+          "",
+          "", 
+          "",
+          "",
+          ""
+        ],
+        "defaults": [
+          ""
+        ],
+        "hotnessLevel": 5,
+        "cutenessLevel": 2,
+        "contacts": [
+          "", 
+          "",
+          "",
+          ""
+        ],
+        "trivia": "",
+        "appearsIn": "",
+        "image": "../assets/data/Nebula.jpg"
+      }
+]
